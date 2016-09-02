@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CusorListViewSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="customer_list_header">Customer Details</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="name_hint">Enter Customer Name</string>
+    <string name="submit">Submit</string>
+    <string name="name_empty">Name cannot be empty</string>
+    <string name="remove_msg">Long press on item to remove</string>
+
+</resources>
